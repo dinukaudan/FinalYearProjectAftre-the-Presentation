@@ -1,0 +1,4 @@
+languages,repo_count,total_commits,ins_best_practices,ins_code_style,ins_design,ins_documentation,ins_error_prone,ins_multithreading,ins_performance,ins_security,Id,label
+0.14285714285714285,0.5555555555555556,1.0,0.2489208633093525,0.8350710900473933,1.0,0.1875,1.0,0.8,1.0,0,githubanalyzeruser,raw
+1.0,1.0,0.08139534883720931,1.0,1.0,0.34673366834170855,1.0,0.0,1.0,0.0,0,manoranga,raw
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0,Theja,raw

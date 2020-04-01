@@ -1,0 +1,12 @@
+requests
+argparse
+giturlparse
+gitpython
+PyGithub
+
+pandas
+keras
+sklearn
+tensorflow
+titlecase
+numpy

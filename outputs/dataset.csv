@@ -1,0 +1,4 @@
+languages,repo_count,total_commits,username,ins_best_practices,ins_code_style,ins_design,ins_documentation,ins_error_prone,ins_multithreading,ins_performance,ins_security
+4,10,491,githubanalyzeruser,2008,8608,1592,24,2352,32,8,0
+10,14,96,manoranga,6184,32712,552,128,1152,40,0,0
+3,5,61,Theja,624,1560,0,0,1392,0,0,0
